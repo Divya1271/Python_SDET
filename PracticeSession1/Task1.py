@@ -1,0 +1,12 @@
+p=5
+q=12.6
+r="Divya"
+s=True
+print(p)
+print(q)
+print(r)
+print(s)
+print(type(p))
+print(type(q))
+print(type(r))
+print(type(s))

@@ -1,0 +1,5 @@
+file=open(r"C:\Users\divya aghi\PycharmProjects\Python_SDET\Practice session 20\document.txt","w")
+file.write("This is the python session going on\n")
+file.write("It is intersting language")
+file.close()
+print("File created")

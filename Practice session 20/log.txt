@@ -1,0 +1,3 @@
+Hello good morning everyone
+Today is Thursday
+The current datetime is 2024-12-12

@@ -1,0 +1,5 @@
+file=open(r"C:\Users\divya aghi\PycharmProjects\Python_SDET\Practice session 20\data.csv","w")
+file.write("This is a new file.\n")
+file.write("Training going on BEBO")
+file.close()
+print("File Created")
